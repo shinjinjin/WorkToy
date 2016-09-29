@@ -1,0 +1,7 @@
+.normal { background-color: #ffffff; opacity: 1 !important; }
+.green { background-color: #a4ffa8; opacity: 0.35 !important; }
+#list_table { width: 100%; }
+#list_table tr td { font-family: '微軟正黑體'; font-size: 1.1em; white-space: nowrap; text-align: center; vertical-align: middle; border: #cccccc 1px solid; padding: 10px 14px; }
+#photo_block_ul, #photo_sort_block_ul, #photo_delete_block { list-style-type: none; margin: 0; padding: 0px 54px; padding-bottom: 20px; width: 90%; }
+#photo_block_ul li, #photo_sort_block_ul li, #photo_delete_block li { margin: 3px 3px 3px 0; padding: 1px; float: left; width: 170px;  /*height: 114px;*//*font-size: 4em;*/ text-align: center; }
+#photo_block_ul li img, #photo_sort_block_ul li img, #photo_delete_block li img { padding-top: 5px; float: center; max-width: 165px; max-height: 120px;height: 114px; /*font-size: 4em;*/ text-align: center; vertical-align: center; }
